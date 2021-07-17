@@ -1,0 +1,4 @@
+#ignore rule
+
+package-lock.json
+node_module/
